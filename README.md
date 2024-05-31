@@ -27,8 +27,8 @@ This is a simple React application that retrieves a list of Pokemon and displays
 
 ## Testing
 
-To run the tests, use the following command:
-    ```bash
+To run the tests,use the following command:
+    ```
     npm test
     ```
 
