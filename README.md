@@ -20,7 +20,13 @@ This is a simple React application that retrieves a list of Pokemon and displays
     REACT_APP_BASE_URL=https://pokeapi.co/api/v2
     ```
 
-4. Start the development server:
+5. Switch to branch 'develop' before starting the project:
+    ```bash
+    git pull origin develop
+    git checkout develop
+    ```
+
+5. Start the development server:
     ```bash
     npm start
     ```
